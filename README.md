@@ -1,3 +1,3 @@
 # pyDataAnalysis
 
-Notebook for data analysis with python.
+Notebook for data analysis with python
